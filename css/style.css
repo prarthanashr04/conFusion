@@ -19,7 +19,7 @@
     padding:70px 30px 70px 30px ;
     margin: 0px auto;
     background: #9575cd;
-    color: floralwhite;
+    color: #fffaf0;
 }
 
 .address{
@@ -33,4 +33,12 @@ body{
 }
 .navbar-dark{
     background-color: #512dab;
+}
+
+.form-group{
+    padding-left: 1px;
+}
+
+.text{
+    margin-left:6px;
 }
